@@ -4,5 +4,5 @@ RESOLUSI 2023
 - C
 - D
 - E
-- F
 - G
+- H
